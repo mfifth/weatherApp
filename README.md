@@ -19,6 +19,7 @@ Gems Required:
 gem 'geocoder' - Get Lon, Lat from string address
 <br/>
 gem 'faraday' - enable http calls
+<br/>
 gem 'faraday_middleware'
 
 
