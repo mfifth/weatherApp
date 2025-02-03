@@ -14,9 +14,10 @@ OpenWeather API key is required for making calls to their server.
 * Configuration
 
 Gems Required:
-    gem 'geocoder' # Get Lon, Lat from string address
-    gem 'faraday' # http call to third party api
-    gem 'faraday_middleware'
+
+gem 'geocoder' // Get Lon, Lat from string address
+gem 'faraday' // enable http calls
+gem 'faraday_middleware'
 
 
 * Database creation
